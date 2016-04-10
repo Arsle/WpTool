@@ -1,0 +1,2 @@
+# WpTool
+Simple Wordpress Analyser
